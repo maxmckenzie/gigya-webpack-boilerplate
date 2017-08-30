@@ -2,6 +2,8 @@
 
 **Install**
 
+> make sure to add your Gigya API key to src/index.html
+
 requirements: [direnv](), [node](), [npm]()
 
 `npm i` to install the dependancies
